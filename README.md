@@ -10,6 +10,10 @@ Este projeto foi desenvolvido como parte de um desafio prático com o objetivo d
 
 O foco principal é transformar o conhecimento sobre como esses malwares operam em ferramentas práticas para a segurança digital.
 
+## Arquivos no Repositório
+
+| `README.md` | Este documento. |
+
 ## Reflexão sobre Defesa e Mitigação
 
 A melhor defesa contra ameaças como Ransomware e Keyloggers reside na combinação de tecnologias de segurança e na conscientização do usuário.
@@ -46,9 +50,6 @@ A melhor defesa contra ameaças como Ransomware e Keyloggers reside na combinaç
 Este desafio demonstrou que a compreensão do lado ofensivo (como o malware atua) é essencial para o desenvolvimento de defesas eficazes. O próximo passo seria aprofundar a análise comportamental desses scripts em ferramentas de segurança reais.
 
 ```
-
----
-
 
 # Malware Simulado com Python (Educação e Defesa)
 
