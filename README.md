@@ -41,11 +41,9 @@ A melhor defesa contra ameaças como Ransomware e Keyloggers reside na combinaç
 
 ---
 
-## Conclusão e Próximos Passos
+## Conclusão:
 
 Este desafio demonstrou que a compreensão do lado ofensivo (como o malware atua) é essencial para o desenvolvimento de defesas eficazes. O próximo passo seria aprofundar a análise comportamental desses scripts em ferramentas de segurança reais.
-
-**Autor:** [Anna Elizabeth Parra Rausseo]
 
 ```
 
